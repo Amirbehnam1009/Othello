@@ -7,7 +7,7 @@
 > Spring 2020
 
 
-## What is Otheello
+## What is Othello
 Othello (Reversi) is a strategic board game played by two players who take turns placing their colored discs on a grid. The objective is to have the majority of discs of your color at the end of the game. Players capture their opponent's discs by sandwiching them between their own discs, flipping them to their own color. The game requires tactical thinking and anticipation of your opponent's moves, making it both simple to learn and deeply strategic to master.
 
 
